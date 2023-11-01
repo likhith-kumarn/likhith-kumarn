@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @likhith-kumarn
+- 👋 Hi, I’m Likhith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on react
