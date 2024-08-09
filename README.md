@@ -10,12 +10,19 @@
  
  🔥 Overall I love interacting with the people and exploring technologies.
  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-kumarn&layout=compact)
+
  
-![Likhith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith-kumarn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+<img alt="my-status" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=likhith-kumarn&show_icons=true&theme=chartreuse-dark">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhith-kumarn&theme=dark)
+<img alt="my-sreak" align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-kumarn&theme=dark">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-kumarn&layout=compact&theme=dark)
+
+
+
+
+
+
  
 
  
