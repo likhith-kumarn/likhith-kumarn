@@ -1,5 +1,5 @@
 
- #👋 Hi, I’m Likhith
+ 👋 Hi, I’m Likhith
  
  🎓 I'm pursuing a Bachelor of Engineering with a degree in Computer Science.
  
@@ -10,18 +10,5 @@
  
  🔥 Overall I love interacting with the people and exploring technologies.
  
- 📫 How to reach me ...
 
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-
-
-#language and tool
-html
-css
-java script
-python
-<!---
-likhith-kumarn/likhith-kumarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
