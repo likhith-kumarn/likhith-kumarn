@@ -1,5 +1,5 @@
 
- ###👋 Hi, I’m Likhith
+ #👋 Hi, I’m Likhith
  
  🎓 I'm pursuing a Bachelor of Engineering with a degree in Computer Science.
  
