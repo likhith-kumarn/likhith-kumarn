@@ -1,9 +1,12 @@
 
-- 👋 Hi, I’m Likhith
+- #👋 Hi, I’m Likhith
+- 🎓 I'm pursuing a Bachelor of Engineering with a degree in Computer Science.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on react
+- 🔥 Overall I love interacting with the people and exploring technologies.
 - 📫 How to reach me ...
+  
 #language and tool
 html
 css
