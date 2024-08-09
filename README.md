@@ -10,7 +10,8 @@
  
  🔥 Overall I love interacting with the people and exploring technologies.
 
- [![Likhith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith-kumarn](https://github.com/likhith-kumarn/github-readme-stats)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhith-kumarn&theme=dark)
+
  
 
 
