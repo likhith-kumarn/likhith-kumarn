@@ -11,7 +11,7 @@
  🔥 Overall I love interacting with the people and exploring technologies.
  
  
-![Likhith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith-kumarn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=black)
+![Likhith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhith-kumarn&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 
 
