@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 🎓 I'm pursuing a Bachelor of Engineering with a degree in Computer Science.
+<p align="left"> 🎓 I'm pursued my Bachelor of Engineering with a degree in Computer Science.
  
  
  🌱 I’m currently learning fullstack development
